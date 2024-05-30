@@ -1,8 +1,9 @@
 # Sitio Introducción a JS
 
 Ejercicio realizado para **Desafío Latam**.
-
-<img align="center" src="https://github.com/donpelusa/desafio-09-javascript/assets/92953141/b397f469-dbc9-430e-b439-855eb63650f5">
+<p align="center">
+  <img src="https://github.com/donpelusa/desafio-09-javascript/assets/92953141/b397f469-dbc9-430e-b439-855eb63650f5">
+</p>
 
 ## Descripción
 
